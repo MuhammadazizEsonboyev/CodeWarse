@@ -7,3 +7,5 @@ function makeNegative(num) {
         return -num
     }
 }
+
+makeNegative(2)
